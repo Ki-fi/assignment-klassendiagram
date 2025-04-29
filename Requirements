@@ -1,23 +1,23 @@
 Functionele eisen
 
 * Accounts, rollen en rechten:
-    * Gebruikers moeten kunnen inloggen in de app via een beveiligd account
-    * Gebruikers moeten kunnen worden toegevoegd in het systeem
-    * De rollen en rechten per gebruiker (management vs personeelslid) moet kunnen worden toegevoegd, bekeken of aangepast
-    * Gebruikers moeten kunnen worden toegevoegd, bekeken of aangepast
-    * persoonsgegevens (naam, adres, contactgegevens, wachtwoord, functie) van gebruikers moeten kunnen worden toegevoegd, bekeken, aangepast of verwijderd
-    * Afdelingshoofden (management) moeten volledige toegang tot de app kunnen hebben,
-    * Personeelsleden moeten beperkte toegang krijgen tot de app
+    - Gebruikers moeten kunnen inloggen in de app via een beveiligd account
+    - Gebruikers moeten kunnen worden toegevoegd in het systeem
+    - De rollen en rechten per gebruiker (management vs personeelslid) moet kunnen worden toegevoegd, bekeken of aangepast
+    - Gebruikers moeten kunnen worden toegevoegd, bekeken of aangepast
+    - persoonsgegevens (naam, adres, contactgegevens, wachtwoord, functie) van gebruikers moeten kunnen worden toegevoegd, bekeken, aangepast of verwijderd
+    - Afdelingshoofden (management) moeten volledige toegang tot de app kunnen hebben,
+    - Personeelsleden moeten beperkte toegang krijgen tot de app
 
 * Producten:
-    * naam en specificaties van producten moeten kunnen worden aangemaakt, bekeken, aangepast of verwijderd
-    * De voorraden van producten per soort moeten inzichtelijk en aan te passen zijn
-    * De voorraad locatie van producten moet inzichtelijk en aan te passen zijn
-    * De prijzen van producten en de verkochte aantallen per product moeten inzichtelijk en aan te passen zijn
-    * De compatibiliteit van een product met andere producten (of ze samen kunnen) moet inzichtelijk en aan te passen zijn
+    - naam en specificaties van producten moeten kunnen worden aangemaakt, bekeken, aangepast of verwijderd
+    - De voorraden van producten per soort moeten inzichtelijk en aan te passen zijn
+    - De voorraad locatie van producten moet inzichtelijk en aan te passen zijn
+    - De prijzen van producten en de verkochte aantallen per product moeten inzichtelijk en aan te passen zijn
+    - De compatibiliteit van een product met andere producten (of ze samen kunnen) moet inzichtelijk en aan te passen zijn
 
 Niet-functionele eisen
 
-* Het systeem moet koppelbaar zijn met andere systemen, zoals boekhoudsoftware
-* Het systeem moet snelheid en prestaties behouden wanneer hoeveelheid data wordt opgeschaald
-* Het systeem moet beveiligd zijn tegen datalekken
+- Het systeem moet koppelbaar zijn met andere systemen, zoals boekhoudsoftware
+- Het systeem moet snelheid en prestaties behouden wanneer hoeveelheid data wordt opgeschaald
+- Het systeem moet beveiligd zijn tegen datalekken
